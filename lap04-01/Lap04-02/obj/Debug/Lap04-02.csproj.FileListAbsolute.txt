@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\bin\Debug\Lap04-02.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\bin\Debug\Lap04-02.exe
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\bin\Debug\Lap04-02.pdb
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\obj\Debug\Lap04-02.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\obj\Debug\Lap04-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\obj\Debug\Lap04_02.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\obj\Debug\Lap04-02.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\obj\Debug\Lap04-02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\obj\Debug\Lap04-02.exe
+C:\Users\ADMIN\OneDrive\Documents\Winfromthuchanh\lap04-01\Lap04-02\obj\Debug\Lap04-02.pdb
