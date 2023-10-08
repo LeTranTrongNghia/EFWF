@@ -1,0 +1,15 @@
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\BLL.dll.config
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\BLL.dll
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\BLL.pdb
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\DAL.dll
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\EntityFramework.dll
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\DAL.pdb
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\DAL.dll.config
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\EntityFramework.xml
+D:\Winform\BT classroom\BT7\BT\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\BT classroom\BT7\BT\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Winform\BT classroom\BT7\BT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Winform\BT classroom\BT7\BT\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Winform\BT classroom\BT7\BT\BLL\obj\Debug\BLL.dll
+D:\Winform\BT classroom\BT7\BT\BLL\obj\Debug\BLL.pdb
