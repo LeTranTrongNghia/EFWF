@@ -1,0 +1,16 @@
+D:\Winform\testset\KTGK\KTGK\bin\Debug\KTGK.exe.config
+D:\Winform\testset\KTGK\KTGK\bin\Debug\KTGK.exe
+D:\Winform\testset\KTGK\KTGK\bin\Debug\KTGK.pdb
+D:\Winform\testset\KTGK\KTGK\bin\Debug\EntityFramework.dll
+D:\Winform\testset\KTGK\KTGK\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\testset\KTGK\KTGK\bin\Debug\EntityFramework.xml
+D:\Winform\testset\KTGK\KTGK\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.csproj.AssemblyReference.cache
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.csproj.SuggestedBindingRedirects.cache
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.Form1.resources
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.Properties.Resources.resources
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.csproj.GenerateResource.cache
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.csproj.CoreCompileInputs.cache
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.csproj.CopyComplete
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.exe
+D:\Winform\testset\KTGK\KTGK\obj\Debug\KTGK.pdb
